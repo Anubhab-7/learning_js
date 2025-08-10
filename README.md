@@ -1,2 +1,2 @@
 # learning_js
-learning j currently to build products
+learning js currently to build products
